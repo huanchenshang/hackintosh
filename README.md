@@ -36,6 +36,10 @@ same with intel tongfang qc7
 |  Fn+F3~F12| functions as keyboard show|
 |  DClick tpad l-t corner| function as Fn+F5|
 
+## Changelog
+* Upgrade OC to 1.0.1
+* Add Sonoma 14.5 support
+
 
 ## Thanks
 https://github.com/kirainmoe/hasee-tongfang-macos<br/>
